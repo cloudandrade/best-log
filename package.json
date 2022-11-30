@@ -1,0 +1,32 @@
+{
+  "name": "best-log",
+  "version": "1.0.0",
+  "description": "Is a optimizated console log with custom colors and a transport that can write logs to file, and also much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudandrade/best-log.git"
+  },
+  "keywords": [
+    "Best",
+    "Log",
+    "Best-Log",
+    "best-log",
+    "bestlog",
+    "Logger"
+  ],
+  "author": "cloud.andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudandrade/best-log/issues"
+  },
+  "homepage": "https://github.com/cloudandrade/best-log#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "moment": "^2.29.4",
+    "winston": "^3.8.2"
+  }
+}
